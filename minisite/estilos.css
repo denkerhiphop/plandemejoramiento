@@ -1,0 +1,231 @@
+body
+{
+background-image:url(fondo.jpg);
+background-size: 100% 400%;
+background-repeat: no-repeat;
+padding: 2em;       
+}
+
+h1
+{
+font-size: 25px;
+color: rgba(56, 140, 255, 0.9);
+}
+
+h2
+{
+font-size: 20px;
+color: rgba(56, 140, 255, 0.9);
+}
+
+p
+{
+font-size: 16px;
+text-align: center;
+}
+
+header
+{
+background: rgba(0, 168, 208, 0.39);
+border-radius: 30px 30px 0 0;
+}
+
+header .logo
+{
+margin: 0px 400px 0px 0px;
+position: relative;
+}
+
+header .logo img
+{
+width: 400px;
+}
+
+nav
+{
+background: rgba(6, 83, 173, 0.58);
+margin: 0;
+position: relative;
+box-shadow: : rgba(0,0,0,0.5);
+top: -16px;
+text-align: center;
+} 
+
+nav ul
+{
+padding: 1px;
+list-style: none;
+}
+
+nav ul li
+{
+padding:  1em;
+display: inline-block;
+margin: 0 0.5em 0 0.5em;    
+}
+
+nav ul #menu1 a
+{
+background: rgba(56, 140, 255, 0.6);
+padding: 10px 20px 10px 20px;
+border-radius: 60px;
+text-decoration: none;
+font-size: 20px;
+box-shadow: rgba(0,0,0,0.5) -2px 2px; 15px;  /*sombreado*/  
+text-shadow: rgba(0,0,0,0.5) -2px 2px 5px;
+}
+
+nav ul #menu2 a
+{
+background: rgba(56, 140, 255, 0.6);
+padding: 10px 20px 10px 20px;
+border-radius: 60px;
+text-decoration: none;
+font-size: 20px;
+box-shadow: rgba(0,0,0,0.5) -2px 2px; 15px;  /*sombreado*/  
+text-shadow: rgba(0,0,0,0.5) -2px 2px 5px;
+}
+
+nav ul #menu3 a
+{
+background: rgba(56, 140, 255, 0.6);
+padding: 10px 20px 10px 20px;
+border-radius: 60px;
+text-decoration: none;
+font-size: 20px;
+box-shadow: rgba(0,0,0,0.5) -2px 2px; 15px;  /*sombreado*/  
+text-shadow: rgba(0,0,0,0.5) -2px 2px 5px;
+}
+
+nav ul #menu4 a
+{
+background: rgba(56, 140, 255, 0.6);
+padding: 10px 20px 10px 20px;
+border-radius: 60px;
+text-decoration: none;
+font-size: 20px;
+box-shadow: rgba(0,0,0,0.5) -2px 2px; 15px;  /*sombreado*/  
+text-shadow: rgba(0,0,0,0.5) -2px 2px 5px;
+}
+
+nav ul li a
+{
+color:white;
+text-decoration: none;
+display: block;    
+}
+
+#contenido
+{
+background: rgba(56, 163, 255, 0.39);
+top:-30px;
+position: relative;
+}
+
+#contenido .quien
+{
+padding: 20px 5px 270px 5px;
+}
+
+#contenido .quien .mi
+{
+padding: 0 50px 0 50px;
+border: 2px solid white;
+float: left;
+border-radius: 20px;
+}
+
+#contenido .quien .vi
+{
+padding: 0 10px 0 50px;
+border: 2px solid white;
+float: right;
+border-radius: 20px;
+text-align: right
+}
+
+#contenido .portafolio
+{
+padding: 0px 5px 100px 5px;
+}
+
+#contenido .portafolio .internet
+{
+padding: 0 400px 0 20px;
+
+float: left;
+border-radius: 20px;
+}
+
+#contenido .portafolio .compu
+{
+
+}
+
+#contenido .portafolio .compu img
+{
+width: 100px;
+}
+
+#contenido .portafolio .llamadas
+{
+padding: 0 20px 0 350px;
+float: right;
+border-radius: 20px;
+}
+
+#contenido .portafolio .llamadas
+{
+text-align:right;
+}
+
+#contenido .portafolio .llamadas img
+{
+width: 100px;
+float: right;
+}
+
+#contenido .portafolio .impresion
+{
+padding: 0 400px 0 20px;
+float: left;
+border-radius: 20px;
+}
+
+#contenido .portafolio .impresion
+{
+float: left;
+}
+
+#contenido .portafolio .impresion img
+{
+width: 100px;
+}
+
+#contenido .portafolio .atencion
+{
+padding: 0 20px 0 100px;
+float: right;
+border-radius: 20px;
+}
+
+#contenido .portafolio .atencion
+{
+text-align: right;
+}
+
+#contenido .portafolio .atencion img
+{
+width: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
